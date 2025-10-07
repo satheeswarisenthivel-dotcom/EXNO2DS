@@ -322,4 +322,4 @@ sns.pairplot(df)
 
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+        All conditions are executed successfully
